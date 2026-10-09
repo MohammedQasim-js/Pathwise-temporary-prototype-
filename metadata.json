@@ -1,0 +1,6 @@
+{
+  "name": "Pathwise",
+  "description": "Retail floor flow analytics and layout optimization platform. See the path, fix the floor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
